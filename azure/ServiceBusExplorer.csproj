@@ -154,9 +154,7 @@
     <Compile Include="Controls\MetricMonitorControl.Designer.cs">
       <DependentUpon>MetricMonitorControl.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controls\DataGridViewDateTimePickerColumn.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Controls\DataGridViewDateTimePickerColumn.cs" />
     <Compile Include="Controls\Grouper.cs">
       <SubType>UserControl</SubType>
     </Compile>
